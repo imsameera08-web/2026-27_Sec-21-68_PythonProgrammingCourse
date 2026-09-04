@@ -1,0 +1,4 @@
+#disply the square of a number
+num=int(input("enter the num:"))
+square=num*num
+print ("the square of the number=",square)
